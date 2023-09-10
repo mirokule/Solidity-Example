@@ -11,6 +11,15 @@ Solidity是一种静态类型语言，每个变量都要在编译时指定类型
 - 地址类型 address：20字节
 - 定长字节数组 bytes1, bytes2, ..., bytes32
 
+``` js
+    bool public boo = true;
+
+    uint8 public u8 = 1;
+    uint256 public u256 = 456;
+    uint public u = 123; // uint 等同于 uint256
+
+    address public addr = 0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c;
+```
 
 引用类型包括：
 - 变长字节数组 bytes[]
