@@ -1,15 +1,16 @@
 # Solidity 简例
 
 一些关于 Solidity 的代码和简要介绍
+
 < ... 施工中 ... >
 
 目录：
 - 数据类型
-    - [基本类型](Data_types/README.md)
-    - [映射](Mapping/README.md)
-    - [数组](Array/README.md)
-    - [结构](Structs/README.md)
-    - [枚举](Enum/README.md)
+    - [基本类型](Data_types/)
+    - [映射](Mapping/)
+    - [数组](Array)
+    - [结构](Structs)
+    - [枚举](Enum)
 - 变量
     - 作用域
     - 常量修饰符
@@ -21,7 +22,9 @@
     - 异常
     - 事件
     - 构造函数
-- 继承
+- 继承与抽象
+    - 继承
+    - 可见性
     - 接口
 - 交易
     - 发送ETH
