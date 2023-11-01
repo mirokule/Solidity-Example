@@ -5,8 +5,8 @@
 < ... 施工中 ... >
 
 #### 应用
-- ERC20
-- ERC721
+- [ERC20](Applications/ERC20/)
+- [ERC721](Applications/ERC721/)
 - ERC1155
 
 #### 语法基础
